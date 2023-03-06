@@ -1,9 +1,9 @@
 # Technical Test Documentation
 So the application first. Spun up in docker locally and routes of interest are:
 
-http://localhost:8080/ - for some very basic output from the functions
-http://localhost:8080/fib/<sequence> eg 6 to play more deeply with fibonacci generation
-http://localhost:8080/fizzbuzz/<from>/<to> eg 1/30 to further experience the childlike joy fizzbuzz provides
+* http://localhost:8080/ - for some very basic output from the functions
+* http://localhost:8080/fib/<sequence> eg 6 to play more deeply with fibonacci generation
+* http://localhost:8080/fizzbuzz/<from>/<to> eg 1/30 to further experience the childlike joy fizzbuzz provides
 
 I opted to use the slim framework because I saw a talk on it at an unconference some years back and thought it'd be nice to try something new.
 
